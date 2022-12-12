@@ -1,0 +1,14 @@
+trojan://2498d0cd-aa7e-40ec-ac84-530c4c9a7d88@20.239.94.179:443?security=tls&sni=data-hk.efyunpan.com&type=tcp&headerType=none#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2023-01-12
+trojan://2498d0cd-aa7e-40ec-ac84-530c4c9a7d88@dl-hk1.efyunpan.com:443?security=tls&sni=data-hk.efyunpan.com&type=tcp&headerType=none#%E9%A6%99%E6%B8%AF%2001
+trojan://2498d0cd-aa7e-40ec-ac84-530c4c9a7d88@dl-hk2.efyunpan.com:443?security=tls&sni=data-hk.efyunpan.com&type=tcp&headerType=none#%E9%A6%99%E6%B8%AF%2002
+trojan://2498d0cd-aa7e-40ec-ac84-530c4c9a7d88@dl-hk3.efyunpan.com:443?security=tls&sni=data-hk.efyunpan.com&type=tcp&headerType=none#%E9%A6%99%E6%B8%AF%2003
+trojan://2498d0cd-aa7e-40ec-ac84-530c4c9a7d88@dl-tw1.efyunpan.com:443?security=tls&sni=data-tw.efyunpan.com&type=tcp&headerType=none#%E5%8F%B0%E6%B9%BE%2001
+trojan://2498d0cd-aa7e-40ec-ac84-530c4c9a7d88@dl-tw2.efyunpan.com:443?security=tls&sni=data-tw.efyunpan.com&type=tcp&headerType=none#%E5%8F%B0%E6%B9%BE%2002
+trojan://2498d0cd-aa7e-40ec-ac84-530c4c9a7d88@dl-jp1.efyunpan.com:443?security=tls&sni=data-jp.efyunpan.com&type=tcp&headerType=none#%E6%97%A5%E6%9C%AC%2001
+trojan://2498d0cd-aa7e-40ec-ac84-530c4c9a7d88@dl-jp2.efyunpan.com:443?security=tls&sni=data-jp.efyunpan.com&type=tcp&headerType=none#%E6%97%A5%E6%9C%AC%2002
+trojan://2498d0cd-aa7e-40ec-ac84-530c4c9a7d88@dl-kr1.efyunpan.com:443?security=tls&sni=data-ockrsl.efyunpan.com&type=tcp&headerType=none#%E9%9F%A9%E5%9B%BD%20%E9%A6%96%E5%B0%94
+trojan://2498d0cd-aa7e-40ec-ac84-530c4c9a7d88@dl-kr2.efyunpan.com:443?security=tls&sni=data-ockrcc.efyunpan.com&type=tcp&headerType=none#%E9%9F%A9%E5%9B%BD%20%E6%98%A5%E5%B7%9D
+trojan://2498d0cd-aa7e-40ec-ac84-530c4c9a7d88@dl-sg1.efyunpan.com:443?security=tls&sni=data-sg.efyunpan.com&type=tcp&headerType=none#%E6%96%B0%E5%8A%A0%E5%9D%A1%2001
+trojan://2498d0cd-aa7e-40ec-ac84-530c4c9a7d88@dl-sg2.efyunpan.com:443?security=tls&sni=data-sg.efyunpan.com&type=tcp&headerType=none#%E6%96%B0%E5%8A%A0%E5%9D%A1%2002
+trojan://2498d0cd-aa7e-40ec-ac84-530c4c9a7d88@dl-us1.efyunpan.com:443?security=tls&sni=data-us.efyunpan.com&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%2001
+trojan://2498d0cd-aa7e-40ec-ac84-530c4c9a7d88@dl-us2.efyunpan.com:443?security=tls&sni=data-us.efyunpan.com&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%2002
